@@ -1,0 +1,25 @@
+{
+  "name": "azalea-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lolgeny/azalea-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lolgeny/azalea-backend/issues"
+  },
+  "homepage": "https://github.com/lolgeny/azalea-backend#readme",
+  "dependencies": {
+    "heroku": "^7.49.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
